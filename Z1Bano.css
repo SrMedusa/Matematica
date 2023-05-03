@@ -26,6 +26,10 @@ header a{
     translate: transform 0,5s;
 }
 
+header img{
+    filter: invert(100%);
+}
+
 header a:hover{
     transform: scale(1.1);
 }
