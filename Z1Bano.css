@@ -14,6 +14,7 @@ header {
     background-color: #00645C;
     display: flex;
     align-items: center;
+    color: white;
 }
 
 header a{
