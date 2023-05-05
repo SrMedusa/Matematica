@@ -29,11 +29,11 @@ header {
 }
 a {
     width: 500px;
-    height: 140px;
+    height: 133px;
     color: #00685D;
     background-color: #E7F6FF;
     text-align: center;
-    line-height: 150px;
+    line-height: 130px;
     font-size: 60px;
     transition: transform 0.3s;
     display: inline-block;
