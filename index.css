@@ -29,21 +29,25 @@ header {
 }
 a {
     width: 500px;
-    height: 133px;
+    height: 150px;
     color: #00685D;
     background-color: #E7F6FF;
-    text-align: center;
-    line-height: 130px;
-    font-size: 60px;
     transition: transform 0.3s;
     display: inline-block;
     text-decoration: none;
-    font-family: 'Segoe UI', Tahoma, Verdana, sans-serif;
-    font-weight: bold;  
     margin-bottom: 10px;
     margin-left: 65px;
     border: solid white 3px;
     border-radius: 10px;
+}
+
+a h1{
+    display: flex;
+    justify-content: center;
+    align-items: start;
+    font-size: 60px;
+    font-family: 'Segoe UI', Tahoma, Verdana, sans-serif;
+    font-weight: bold;  
 }
 
 #links{
